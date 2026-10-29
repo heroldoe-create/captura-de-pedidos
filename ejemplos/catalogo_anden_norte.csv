@@ -1,0 +1,8 @@
+sku,descripcion,unidad_venta,codigo_barras,activo,notas
+FRB-001,frijol bayo bolsa 1 kg,pieza,7501000000011,si,
+ATN-002,atun lomito en agua 140 g,pieza,7501000000028,si,
+PKR-010,papel kraft rollo 60 cm,pieza,7501000000103,si,venta por rollo
+PKR-011,papel kraft hoja 1 m,pieza,7501000000110,si,venta por hoja
+ACE-003,aceite vegetal botella 1 L,pieza,7501000000035,si,
+ACE-004,aceite vegetal garrafon 5 L,pieza,7501000000042,si,
+REF-006,refresco cola 600 ml,pieza,7501000000066,si,empaque 24 piezas por caja
